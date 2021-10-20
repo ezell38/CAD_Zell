@@ -54,3 +54,7 @@ https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c
 
 The one thing that can be tricky in this assignment is setting the dimensions. You need to make sure you set the dimensions over the construction line you created so the wheel has the right dimensions. 
 
+## Final Assembly
+
+
+

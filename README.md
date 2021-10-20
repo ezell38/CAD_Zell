@@ -17,3 +17,23 @@ https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c
 ### Reflection
 
 This assignment was pretty easy and a nice way to get back into CAD
+
+## Trucks 
+
+### Description
+
+### Evidence
+
+### Image 
+
+### Reflection
+
+## Wheels and Bearings
+
+### Description
+
+### Evidence
+
+### Image 
+
+### Reflection

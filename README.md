@@ -56,5 +56,8 @@ The one thing that can be tricky in this assignment is setting the dimensions. Y
 
 ## Final Assembly
 
+<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture3.PNG?raw=true" alt="Wheels" width="500" >
+
+<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture4.PNG?raw=true" alt="Wheels" width="500" >
 
 

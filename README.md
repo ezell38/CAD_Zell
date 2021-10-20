@@ -16,24 +16,41 @@ https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c
 
 ### Reflection
 
-This assignment was pretty easy and a nice way to get back into CAD
+The one thing I needeed to fix while doing the assignment was when you're creating the holes in the deck you need to dimension it from the center of the board so regardless of the dimensions of the board it will still be the correct distance from the center.
 
 ## Trucks 
 
 ### Description
 
+The goal of this assignment was to make the trucks for the skateboard. The role of the trucks is to connect the wheels and the deck so this part is very critical. 
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c43779a47ef3abb0/e/fbd8a5585a4898c59d23730e
 
 ### Image 
 
+<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture1.PNG?raw=true" alt="Trucks" width="500" >
+
 ### Reflection
+
+Designing this part was tricky if you didn't pay attention to the different types of extrusions for example making sure you add a new extrusion vs just adding it or adding something to the wrong part.
 
 ## Wheels and Bearings
 
 ### Description
 
+For this assignment we had to design the wheels and bearings for the skateboard. 
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c43779a47ef3abb0/e/4463d831ee6509e4600695f2
 
 ### Image 
 
+<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture2.PNG?raw=true" alt="Wheels" width="500" >
+
 ### Reflection
+
+The one thing that can be tricky in this assignment is setting the dimensions. You need to make sure you set the dimensions over the construction line you created so the wheel has the right dimensions. 
+

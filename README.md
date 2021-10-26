@@ -4,11 +4,11 @@
 
 ### Description
 
-This assignment was the first step in designing a 3-D skateboard in Onshape.
+This assignment was the first step in designing a 3-D skateboard in Onshape. I made this part using sketching, extrusions, and fillets.
 
 ### Evidence 
 
-https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c43779a47ef3abb0/e/fbd8a5585a4898c59d23730e
+[Link](https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c43779a47ef3abb0/e/fbd8a5585a4898c59d23730e)
 
 ### Image
 
@@ -22,11 +22,11 @@ The one thing I needeed to fix while doing the assignment was when you're creati
 
 ### Description
 
-The goal of this assignment was to make the trucks for the skateboard. The role of the trucks is to connect the wheels and the deck so this part is very critical. 
+The goal of this assignment was to make the trucks for the skateboard. The role of the trucks is to connect the wheels and the deck so this part is very critical. This is made by using extrusions, fillets, and sketches.
 
 ### Evidence
 
-https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c43779a47ef3abb0/e/fbd8a5585a4898c59d23730e
+[Link](https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c43779a47ef3abb0/e/fbd8a5585a4898c59d23730e)
 
 ### Image 
 
@@ -40,7 +40,7 @@ Designing this part was tricky if you didn't pay attention to the different type
 
 ### Description
 
-For this assignment we had to design the wheels and bearings for the skateboard. 
+For this assignment we had to design the wheels and bearings for the skateboard. This was made by sketching, revolving, and fillets.
 
 ### Evidence
 
@@ -56,8 +56,18 @@ The one thing that can be tricky in this assignment is setting the dimensions. Y
 
 ## Final Assembly
 
+### Desription
+
+The goal of this assignment was to mate all the parts together and add nuts and bolts. We used the replicate tool.
+
+### Image
+
 <img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture3.PNG?raw=true" alt="Wheels" width="500" >
 
 <img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture4.PNG?raw=true" alt="Wheels" width="500" >
+
+### Reflection 
+
+The main thing to remember for this assignment is to replicate on a plane. 
 
 

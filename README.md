@@ -68,6 +68,18 @@ The goal of this assignment was to mate all the parts together and add nuts and 
 
 ### Reflection 
 
-The main thing to remember for this assignment is to replicate on a plane. 
+The main thing to remember for this assignment is to replicate on a plane. \
+
+## Duck
+
+### Description 
+
+The goal of this assignment was to use the snap tool and the bricks you made in the last assignment to create a 3-D design duck. 
+
+### Image
+
+<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture3.PNG?raw=true" alt="Wheels" width="500" >
+
+
 
 

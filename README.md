@@ -78,7 +78,16 @@ The goal of this assignment was to use the snap tool and the bricks you made in 
 
 ### Image
 
-<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture.PNG?raw=true" alt="Duck" width="500" >
+<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture5.PNG?raw=true" alt="Duck" width="500" >
+
+### Evidence 
+
+https://cvilleschools.onshape.com/documents/b7e3c5ebd2810918ff8ea7af/w/bdb5470ff7bec04ef80e6d1e/e/9ec71553076bf708fb3249c1
+
+### Reflection 
+
+One thing that is importtant to know is how to do the snap mate. I tried to do it after I inserted the brick and not as I inserted the brick which made it much harder.
+
 
 
 

@@ -78,7 +78,7 @@ The goal of this assignment was to use the snap tool and the bricks you made in 
 
 ### Image
 
-<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture3.PNG?raw=true" alt="Wheels" width="500" >
+<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture.PNG?raw=true" alt="Duck" width="500" >
 
 
 

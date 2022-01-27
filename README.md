@@ -44,7 +44,7 @@ For this assignment we had to design the wheels and bearings for the skateboard.
 
 ### Evidence
 
-https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c43779a47ef3abb0/e/4463d831ee6509e4600695f2
+[Link](https://cvilleschools.onshape.com/documents/2603982bd068e2208e1be1ff/w/a3c41035c43779a47ef3abb0/e/4463d831ee6509e4600695f2)
 
 ### Image 
 
@@ -82,7 +82,7 @@ The goal of this assignment was to use the snap tool and the bricks you made in 
 
 ### Evidence 
 
-https://cvilleschools.onshape.com/documents/b7e3c5ebd2810918ff8ea7af/w/bdb5470ff7bec04ef80e6d1e/e/9ec71553076bf708fb3249c1
+[Link](https://cvilleschools.onshape.com/documents/b7e3c5ebd2810918ff8ea7af/w/bdb5470ff7bec04ef80e6d1e/e/9ec71553076bf708fb3249c1)
 
 ### Reflection 
 

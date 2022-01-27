@@ -68,7 +68,7 @@ The goal of this assignment was to mate all the parts together and add nuts and 
 
 ### Reflection 
 
-The main thing to remember for this assignment is to replicate on a plane. \
+The main thing to remember for this assignment is to replicate on a plane. 
 
 ## Duck
 

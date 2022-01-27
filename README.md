@@ -12,7 +12,7 @@ This assignment was the first step in designing a 3-D skateboard in Onshape. I m
 
 ### Image
 
-<img src="https://github.com/ezell38/CAD_Zell/blob/main/Images/Capture.PNG?raw=true" alt="Deck" width="500" >
+<img src="https://github.com/ezell38/CAD_Zell/blob/main/Screenshot 2022-01-26 7.09.30 PM.png" alt="Deck" width="500" >
 
 ### Reflection
 

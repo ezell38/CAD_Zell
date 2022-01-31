@@ -68,7 +68,7 @@ The goal of this assignment was to mate all the parts together and add nuts and 
 
 ### Reflection 
 
-The main thing to remember for this assignment is to replicate on a plane. 
+The main thing to remember for this assignment is to replicate on a plane, not a part, when you add screws and nuts into the assembly so it adds them to the correct holes on both trucks and sides of the deck.
 
 ## Duck
 

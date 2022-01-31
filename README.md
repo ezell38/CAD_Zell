@@ -16,7 +16,7 @@ This assignment was the first step in designing a 3-D skateboard in Onshape. I m
 
 ### Reflection
 
-The one thing I needeed to fix while doing the assignment was when you're creating the holes in the deck you need to dimension it from the center of the board so regardless of the dimensions of the board it will still be the correct distance from the center.
+The one thing I needed to fix while doing the assignment was when you're creating the holes in the deck you need to dimension it from the center of the board so regardless of the dimensions of the board it will still be the correct distance from the center.
 
 ## Trucks 
 
@@ -34,7 +34,7 @@ The goal of this assignment was to make the trucks for the skateboard. The role 
 
 ### Reflection
 
-Designing this part was tricky if you didn't pay attention to the different types of extrusions for example making sure you add a new extrusion vs just adding it or adding something to the wrong part.
+Designing this part was tricky if you didn't pay attention to the different types of extrusions. There are two different types of extrusions: adding a new extrusion or adding a extrusion to a existing part. For this assignment it was key to add to the correct existing part when told to and creating a new extrusion when told to.
 
 ## Wheels and Bearings
 
@@ -52,7 +52,7 @@ For this assignment we had to design the wheels and bearings for the skateboard.
 
 ### Reflection
 
-The one thing that can be tricky in this assignment is setting the dimensions. You need to make sure you set the dimensions over the construction line you created so the wheel has the right dimensions. 
+The one thing that can be tricky in this assignment is setting the dimensions. You need to make sure you set the dimensions over the construction line you created so the wheel has the right dimensions. If the dimensions are set just on one side then reflected the wheel will be much larger then the assignment needs it to be. 
 
 ## Final Assembly
 
@@ -86,7 +86,7 @@ The goal of this assignment was to use the snap tool and the bricks you made in 
 
 ### Reflection 
 
-One thing that is importtant to know is how to do the snap mate. I tried to do it after I inserted the brick and not as I inserted the brick which made it much harder.
+One thing that is important to know is how to do the snap mate. A key with the snap mate is making sure you snap on the part when you bring it into the assembly not after. 
 
 
 
